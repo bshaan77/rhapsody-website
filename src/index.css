@@ -1,0 +1,25 @@
+:root {
+  --color-primary-white: hsl(0, 0%, 100%);
+  --color-primary-black: hsl(0, 0%, 13%);
+  --color-secondary-red: hsl(0, 100%, 68%);
+  --color-secondary-blue: hsl(185, 40%, 65%);
+  --color-secondary-yellow: hsl(48, 95%, 58%);
+  /* For testing purposes, append below */
+  background-color: cadetblue; 
+}
+
+
+body {
+  margin: 0;
+  background-color: var(--color-primary-white);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

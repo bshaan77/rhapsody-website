@@ -1,0 +1,14 @@
+.container {
+    margin-top: 50px;
+
+}
+
+.toggle-button-wrapper {
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
