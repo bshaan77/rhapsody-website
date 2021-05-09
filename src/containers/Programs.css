@@ -1,0 +1,19 @@
+.type-selection-container {
+    height: 30vh;
+    background-color: tomato;
+    padding: 10px;
+}
+
+.type-toggle-wrapper {
+    display: flex;
+    width: 100%;
+    direction: row;
+    justify-content: space-around;
+    align-content: center;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.programs-description {
+    padding: 10px;
+}

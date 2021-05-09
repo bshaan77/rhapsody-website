@@ -1,0 +1,15 @@
+img {
+    float: left;
+}
+
+button {
+    width: 80%;
+    /* theres a special unit u should be using with button, google soon */
+    height: 50px;
+}
+
+.logo-container {
+    display: flex;
+    align-items: center; 
+    justify-content: center
+}
